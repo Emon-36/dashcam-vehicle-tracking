@@ -1,0 +1,29 @@
+# Model weights (large binaries -- don't commit these)
+*.pt
+*.onnx
+*.pb
+*.pbtxt
+
+# Generated outputs
+output_tracking_calibrated.avi
+output_optical_flow_arrows.avi
+combined_output_frames/
+*.avi
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# C++ build artifacts
+cpp/dashcam_dnn_project/
+*.o
+build/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+*.swp
