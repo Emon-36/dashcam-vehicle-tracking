@@ -1,5 +1,12 @@
 # Dashcam Vision Pipeline
 
+## 🎬 Pipeline Demo
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/cd803bac-6889-47f4-b8ce-227116e20d63" controls autoplay loop muted width="100%">
+  </video>
+</div>
+
 Real-time vehicle detection, multi-object tracking, distance/speed estimation,
 and dense optical-flow visualization from dashcam footage — implemented as a
 multithreaded pipeline in **two versions**:
