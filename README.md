@@ -145,4 +145,4 @@ versions. For best accuracy:
 
 ## License
 
-MIT (or update as you prefer).
+MIT 
